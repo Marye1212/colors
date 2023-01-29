@@ -1,0 +1,22 @@
+body{
+    background-color:  lavenderblush;
+ }
+header{
+background-color: #FFB6C1;
+width: 100%;
+height: 200px;
+}
+
+h1{
+    color: darkmagenta;
+
+}
+h2{
+    color: #663399;
+}
+footer{
+    background-color: #C71585;
+ 
+    width: 100%;
+    height: 200px;
+    }
